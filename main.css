@@ -19,8 +19,21 @@ p {
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 div {
     background-color: darkcyan;
     text-align: right;
 }
 >>>>>>> add-header
+=======
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-family: Arial;
+}
+
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+>>>>>>> add-table
